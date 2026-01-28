@@ -1,4 +1,4 @@
-1. Storefront (Theme Customization)Requirements => Done
+<img width="1422" height="747" alt="Screenshot 2026-01-28 at 10 49 21 AM" src="https://github.com/user-attachments/assets/a9c6ad05-1e9c-4ae4-9054-738e6c3f5f51" />1. Storefront (Theme Customization)Requirements => Done
 * On Product Detail Page (PDP):
 * Add a Purchase Type selector:
 * One-Time Purchase
@@ -17,6 +17,11 @@ Evaluation Focus
 line_item.properties.purchase_type
 
 <img width="1183" height="482" alt="Screenshot 2025-12-23 at 5 05 21 PM" src="https://github.com/user-attachments/assets/44342a30-263a-4948-8a54-774306fcffcc" />
+
+
+
+
+<img width="1422" height="747" alt="Screenshot 2026-01-28 at 10 49 21 AM" src="https://github.com/user-attachments/assets/41307c77-fb11-4b9a-a36b-91fc78c4a2da" />
 
 
 2. Custom Shopify App (Admin App)Requirements
@@ -50,6 +55,9 @@ Expected Skills
 * Cart line inspection
 * Conditional logic
 * Clean function structure
+
+
+<img width="1413" height="754" alt="Screenshot 2026-01-28 at 10 53 14 AM" src="https://github.com/user-attachments/assets/d0695a53-4f52-4ba5-bf3a-367cf4359e82" />
 
 4. Checkout UI ExtensionRequirements => Done
 Create a Checkout UI Extension that:
