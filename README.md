@@ -19,11 +19,6 @@ line_item.properties.purchase_type
 <img width="1183" height="482" alt="Screenshot 2025-12-23 at 5 05 21 PM" src="https://github.com/user-attachments/assets/44342a30-263a-4948-8a54-774306fcffcc" />
 
 
-
-
-<img width="1422" height="747" alt="Screenshot 2026-01-28 at 10 49 21 AM" src="https://github.com/user-attachments/assets/41307c77-fb11-4b9a-a36b-91fc78c4a2da" />
-
-
 2. Custom Shopify App (Admin App)Requirements
 Create a custom Shopify app (Node.js / Remix) with an Admin UI that allows:
 * Enable / Disable Payment Customization Rules
